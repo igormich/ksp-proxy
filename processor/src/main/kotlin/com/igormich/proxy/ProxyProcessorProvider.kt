@@ -1,4 +1,4 @@
-package com.igormich88
+package com.igormich.proxy
 
 import com.google.devtools.ksp.processing.SymbolProcessor
 import com.google.devtools.ksp.processing.SymbolProcessorEnvironment
